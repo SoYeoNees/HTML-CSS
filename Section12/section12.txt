@@ -1,0 +1,20 @@
+[CSS프레임워크 : 부트스트랩(Bootstrap)]
+<Crucial>
+-WTF is Bootstrap
+- Working with CSS Frameworks
+- including 3rd Party CSS & CDNS
+
+<Important>
+- Bootsrap Grid
+- Responsive Bootstrap Grid
+- Bootstrap Navbars
+
+<Bootstrap>
+CSS 프레임워크: 현실에서 만들기 전에 틀 정함
+반응형 최신 웺이트를 빠르게 만들 수 있게 도와줌.
+- Components -> container 사용X
+- Grid System: 많은 양의 CSS가 미리 작성되어 있는 것. (=flexbox)
+-> container 안에서 사용
+
+<CDN> : 콘텐츠 전송 네트워크 혹은 배포 네트워크
+원격으로 접근할 수 있는 버전(다운로드X)
